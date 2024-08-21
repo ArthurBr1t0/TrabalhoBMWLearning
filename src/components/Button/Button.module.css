@@ -1,0 +1,13 @@
+.buttonnavigation {
+    width: 70px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 70px;
+    padding:  12px 70px;
+    background-color: #005792;
+    font-size: 11px;
+    border: none;
+    border-radius: 4px;
+}
+
+

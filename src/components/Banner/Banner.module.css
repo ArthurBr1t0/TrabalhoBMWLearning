@@ -1,0 +1,41 @@
+.bannerfilme {
+    width: 100%;
+    height: auto;
+    margin-top: -120px;
+    z-index: 30;
+}
+
+.divavatar {
+    width: 694px;
+    background: rgba(0,0,0,25%);
+    height: 260px;
+    z-index: 50;
+    backdrop-filter: blur(2px);
+    position: fixed;
+    margin-top: -800px;
+}
+
+.h1avatar {
+    font-size: 85px;
+    z-index: 50;
+    margin-top: 10px;
+    margin-left: 110px;
+    color: #fffaf2;
+}
+
+.h2theway {
+    font-size: 35px;
+    margin-left: 110px;
+    color: #fffaf2;
+}
+
+.pgavatar {
+    width: 500px;
+    font-size: 18px;
+    margin-left: 115px;
+    color: #fffaf2;
+}
+
+.i4 {
+    color: #00b2e9;
+}
