@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+LEMBRAR_DE_USAR_GIT_PULL_SEMPRE_QUANDO_FOR_EDITAR
 
 # testing
 /coverage
