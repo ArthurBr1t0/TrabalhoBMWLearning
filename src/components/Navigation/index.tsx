@@ -9,26 +9,21 @@ import { ButtonNavigation } from "../Button";
 export function Navigation() {
   return (
     <nav className={styles.nav}>
-      <Image className={styles.cineartlogo} src={BMWlogo} alt="" />
-      <Link href="#" className={styles.home}>
+      <Image className={styles.logo} src={BMWlogo} alt="" />
+      <Link href="#" className={styles.text}>
         HOME
       </Link>
-      <Link href="#" className={styles.filmes}>
-        CARROS
+      <Link href="#" className={styles.text}>
+        MODELOS
       </Link>
-      <Link href="#" className={styles.series}>
+      <Link href="#" className={styles.text}>
         PEDIDOS
       </Link>
-      <Link href="#" className={styles.series}>
+      <Link href="#" className={styles.text}>
         CLASSICOS
       </Link>
       <Image className={styles.pesquisar} src={pesquisar} alt="" />
       <Image className={styles.notf} src={notf} alt="" />
-      <ButtonNavigation>
-        <Link href="#" className={styles.pgplus}>
-          ENTRAR
-        </Link>
-      </ButtonNavigation>
     </nav>
   );
 }

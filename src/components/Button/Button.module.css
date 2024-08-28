@@ -10,4 +10,49 @@
     border-radius: 4px;
 }
 
+.buttonbanner {
+    width: 300px;
+    height: 80px;
+    margin-top: 40px;
+    margin-left: 110px;
+    background-color: transparent;
+    border-color: white;
+    border-radius: 10px;
+}
 
+.buttonbanner:hover {
+    background-color: white;
+    color: blue;
+}
+
+.buttonbanner2 {
+    width: 300px;
+    height: 80px;
+    margin-top: 40px;
+    margin-left: 110px;
+    background-color: transparent;
+    border-color: blue;
+    color: black;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.buttonbanner2:hover {
+    background-color: blue;
+    color: white;
+}
+
+.buttonbannertwo {
+    width: 300px;
+    height: 80px;
+    margin-top: 40px;
+    margin-left: 110px;
+    background-color: transparent;
+    border-color: white;
+    border-radius: 10px;
+}
+
+.buttonbannertwo:hover {
+    background-color: white;
+    color: blue;
+}

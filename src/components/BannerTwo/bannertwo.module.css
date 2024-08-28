@@ -1,0 +1,40 @@
+.banner {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin-top: 800px;
+}
+
+.divgrande {
+    width: 1200px;
+    background: rgba(0,0,0,25%);
+    height: 600px;
+    z-index: 50;
+    backdrop-filter: blur(2px);
+    margin-top: -2000px;
+    position: absolute;
+}
+
+.h1e36 {
+    font-size: 130px;
+    margin-left: 110px;
+    margin-top: 30px;
+}
+
+.h1span {
+    color: #00b2e9;
+}
+
+.pge36 {
+    font-size: 40px;
+    margin-left: 110px;
+}
+.pgge36 {
+    width: 800px;
+    font-size: 30px;
+    margin-left: 110px;
+}
+
+.pgbutton {
+    font-size: 30px;
+}

@@ -8,11 +8,11 @@
 .divavatar {
     width: 694px;
     background: rgba(0,0,0,25%);
-    height: 260px;
+    height: 400px;
     z-index: 50;
     backdrop-filter: blur(2px);
-    position: fixed;
     margin-top: -800px;
+    position: absolute;
 }
 
 .h1avatar {
@@ -38,4 +38,8 @@
 
 .i4 {
     color: #00b2e9;
+}
+
+.pgbutton {
+    font-size: 25px;
 }

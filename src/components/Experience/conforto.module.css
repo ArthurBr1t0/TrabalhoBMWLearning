@@ -1,0 +1,94 @@
+.h1expercience {
+    margin-left: 1200px;
+    margin-top: 80px;
+    font-size: 50px;
+    color: black;
+}
+
+.div1 {
+    background: rgba(241, 245, 249, 1);
+    width: 1000px;
+    height: 200px;
+    box-shadow: 0px 16px 48px 0px rgba(0, 0, 0, 0.24);
+    border-radius: 10px;
+    margin-left: 110px;
+    margin-top: 80px;
+    position: absolute;
+}
+
+.div2 {
+    background: rgba(241, 245, 249, 1);
+    width: 1000px;
+    height: 200px;
+    box-shadow: 0px 16px 48px 0px rgba(0, 0, 0, 0.24);
+    border-radius: 10px;
+    margin-left: 1380px;
+    margin-top: 80px;
+    position: absolute;
+}
+
+.div3 {
+    background: rgba(241, 245, 249, 1);
+    width: 1000px;
+    height: 200px;
+    box-shadow: 0px 16px 48px 0px rgba(0, 0, 0, 0.24);
+    border-radius: 10px;
+    margin-left: 110px;
+    margin-top: 400px;
+    position: absolute;
+}
+
+.div4 {
+    background: rgba(241, 245, 249, 1);
+    width: 1000px;
+    height: 200px;
+    box-shadow: 0px 16px 48px 0px rgba(0, 0, 0, 0.24);
+    border-radius: 10px;
+    margin-left: 1380px;
+    margin-top: 400px;
+    position: absolute;
+}
+
+.div5 {
+    background: rgba(241, 245, 249, 1);
+    width: 1000px;
+    height: 200px;
+    box-shadow: 0px 16px 48px 0px rgba(0, 0, 0, 0.24);
+    border-radius: 10px;
+    margin-left: 2670px;
+    margin-top: 80px;
+    position: absolute;
+}
+
+.div6 {
+    background: rgba(241, 245, 249, 1);
+    width: 1000px;
+    height: 200px;
+    box-shadow: 0px 16px 48px 0px rgba(0, 0, 0, 0.24);
+    border-radius: 10px;
+    margin-left: 2670px;
+    margin-top: 400px;
+    position: absolute;
+}
+
+.icondin {
+    width: 200px;
+    height: 200px;
+}
+
+.title {
+    position: absolute;
+    color: black;
+    font-size: 40px;
+    margin-top: -180px;
+    margin-left: 220px;
+}
+
+.pgtitle {
+    width: 600px;
+    position: absolute;
+    color: black;
+    font-size: 30px;
+    margin-top: -120px;
+    margin-left: 220px;
+}

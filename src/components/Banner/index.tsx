@@ -2,8 +2,7 @@ import Link from "next/link";
 import styles from "../Banner/Banner.module.css";
 import Image from "next/image";
 import bannercarro from "../../../public/bannercarro.png";
-import estrelacheia from "../../../public/estrelacheia.png";
-import estrelavazia from "../../../public/estrelavazia.png";
+import { ButtonBanner } from "../Button";
 
 export function Banner() {
   return (
@@ -17,6 +16,9 @@ export function Banner() {
         <p className={styles.pgavatar}>
           The new BMW i4 have 340cv, perfect to all your daily needs.
         </p>
+        <ButtonBanner>
+          <p className={styles.pgbutton}>Saiba Mais</p>
+        </ButtonBanner>
       </div>
     </section>
   );
