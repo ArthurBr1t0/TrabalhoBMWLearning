@@ -19,6 +19,7 @@ export function BannerThree() {
           <p className={styles.pgbutton}>Saiba Mais</p>
         </ButtonBanner>
       </div>
+      <hr style={{ marginTop: "900px" }} />
     </section>
   );
 }

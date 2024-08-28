@@ -92,3 +92,63 @@
     margin-top: -120px;
     margin-left: 220px;
 }
+
+@media(max-width: 1500px) {
+
+    .h1expercience {
+        font-size: 40px;
+        margin-left: 150px;
+    }
+
+    .div1 {
+        height: 150px;
+        margin-left: 200px;
+    }
+
+    .icondin {
+        width: 150px;
+        height: 150px;
+    }
+
+    .div3 {
+        margin-top: 280px;
+        height: 150px;
+        margin-left: 200px;
+    }
+
+    .div2 {
+        margin-top: 480px;
+        height: 150px;
+        margin-left: 200px;
+    }
+
+    .div4 {
+        height: 150px;
+        margin-left: 200px;
+        margin-top: 680px;
+    }
+
+    .div5 {
+        margin-top: 880px;
+        height: 150px;
+        margin-left: 200px;
+    }
+
+    .div6 {
+        margin-top: 1080px;
+        height: 150px;
+        margin-left: 200px;
+    }
+
+    .title {
+        position: absolute;
+        font-size: 32px;
+        margin-top: -130px;
+    }
+
+    .pgtitle {
+        font-size: 25px;
+        margin-top: -90px;
+    }
+
+}

@@ -56,3 +56,21 @@
     background-color: white;
     color: blue;
 }
+
+@media(max-width: 1500px) {
+
+    .buttonbanner {
+        margin-top: 20px;
+        width: 230px;
+        height: 70px;
+        margin-left: 100px;
+    }
+
+    .buttonbannertwo {
+        margin-top: 20px;
+        width: 250px;
+        height: 80px;
+        margin-left: 100px;
+    }
+
+}

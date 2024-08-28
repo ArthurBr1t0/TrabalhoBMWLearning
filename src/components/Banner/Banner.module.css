@@ -43,3 +43,32 @@
 .pgbutton {
     font-size: 25px;
 }
+
+@media(max-width: 1500px) {
+
+    .divavatar {
+        margin-top: -400px;
+        width: 500px;
+        height: 300px;
+    }
+
+    .h1avatar {
+        margin-left: 100px;
+        font-size: 80px;
+    }
+
+    .h2theway {
+        font-size: 25px;
+        margin-left: 100px;
+    }
+
+    .pgavatar {
+        width: 350px;
+        margin-left: 100px;
+    }
+
+    .pgbutton {
+        font-size: 23px;
+    }
+
+}

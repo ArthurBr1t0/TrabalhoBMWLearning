@@ -38,3 +38,33 @@
 .pgbutton {
     font-size: 30px;
 }
+
+@media(max-width: 1500px) {
+
+    .banner {
+        margin-top: 1300px;
+    }
+
+    .divgrande {
+        margin-top: -900px;
+        width: 700px;
+        height: 400px;
+    }
+
+    .h1e36 {
+        margin-left: 100px;
+        font-size: 90px;
+    }
+
+    .pge36 {
+        margin-left: 100px;
+        font-size: 35px;
+    }
+
+    .pgge36 {
+        width: 500px;
+        margin-left: 100px;
+        font-size: 25px;
+    }
+
+}
