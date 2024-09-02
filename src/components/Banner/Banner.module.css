@@ -72,3 +72,28 @@
     }
 
 }
+
+@media(max-width: 1000px) {
+
+   .divavatar {
+        margin-top: -250px;
+        width: 400px;
+        height: 230px;
+   }
+
+   .h1avatar {
+        margin-left: 80px;
+        font-size: 50px;
+   }
+
+   .h2theway {
+        margin-left: 80px;
+        font-size: 20px;
+   }
+
+   .pgavatar {
+        margin-left: 80px;
+        width: 300px;
+   }
+
+}

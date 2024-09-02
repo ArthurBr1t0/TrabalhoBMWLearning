@@ -68,3 +68,38 @@
     }
 
 }
+
+@media(max-width: 1000px) {
+
+    .banner {
+        margin-top: 1300px;
+    }
+
+    .divgrande {
+        margin-top: -600px;
+        width: 500px;
+        height: 250px;
+    }
+
+    .h1e36 {
+        margin-top: -4px;
+        margin-left: 80px;
+        font-size: 60px;
+    }
+
+    .pge36 {
+        margin-left: 80px;
+        font-size: 25px;
+    }
+
+    .pgge36 {
+        width: 400px;
+        margin-left: 80px;
+        font-size: 17px;
+    }
+
+    .pgbutton {
+        font-size: 25px;
+    }
+
+}

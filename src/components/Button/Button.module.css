@@ -74,3 +74,21 @@
     }
 
 }
+
+@media(max-width: 1000px) {
+
+    .buttonbanner {
+        margin-left: 80px;
+        margin-top: 10px;
+        width: 200px;
+        height: 60px;
+    }
+
+    .buttonbannertwo {
+        width: 200px;
+        height: 60px;
+        margin-left: 80px;
+        margin-top: 10px;
+    }
+ 
+ }
